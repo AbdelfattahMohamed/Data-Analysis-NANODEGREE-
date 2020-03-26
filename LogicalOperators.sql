@@ -12,4 +12,3 @@ These allow you to combine operations where all combined conditions must be true
 OR
 This allow you to combine operations where at least one of the combined conditions must be true.
 
-
